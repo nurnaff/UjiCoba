@@ -1,0 +1,14 @@
+G:\Aplikasi\Xamarin\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.deps.json
+G:\Aplikasi\Xamarin\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.runtimeconfig.json
+G:\Aplikasi\Xamarin\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.runtimeconfig.dev.json
+G:\Aplikasi\Xamarin\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.dll
+G:\Aplikasi\Xamarin\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.pdb
+G:\Aplikasi\Xamarin\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.csproj.CoreCompileInputs.cache
+G:\Aplikasi\Xamarin\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.RazorAssemblyInfo.cache
+G:\Aplikasi\Xamarin\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.RazorAssemblyInfo.cs
+G:\Aplikasi\Xamarin\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.AssemblyInfoInputs.cache
+G:\Aplikasi\Xamarin\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.AssemblyInfo.cs
+G:\Aplikasi\Xamarin\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.RazorTargetAssemblyInfo.cache
+G:\Aplikasi\Xamarin\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.dll
+G:\Aplikasi\Xamarin\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.pdb
+G:\Aplikasi\Xamarin\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.csprojAssemblyReference.cache

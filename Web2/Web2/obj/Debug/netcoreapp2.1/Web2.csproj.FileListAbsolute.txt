@@ -1,0 +1,14 @@
+G:\Aplikasi\Xamarin\Web2\Web2\bin\Debug\netcoreapp2.1\Web2.deps.json
+G:\Aplikasi\Xamarin\Web2\Web2\bin\Debug\netcoreapp2.1\Web2.runtimeconfig.json
+G:\Aplikasi\Xamarin\Web2\Web2\bin\Debug\netcoreapp2.1\Web2.runtimeconfig.dev.json
+G:\Aplikasi\Xamarin\Web2\Web2\bin\Debug\netcoreapp2.1\Web2.dll
+G:\Aplikasi\Xamarin\Web2\Web2\bin\Debug\netcoreapp2.1\Web2.pdb
+G:\Aplikasi\Xamarin\Web2\Web2\obj\Debug\netcoreapp2.1\Web2.csprojAssemblyReference.cache
+G:\Aplikasi\Xamarin\Web2\Web2\obj\Debug\netcoreapp2.1\Web2.csproj.CoreCompileInputs.cache
+G:\Aplikasi\Xamarin\Web2\Web2\obj\Debug\netcoreapp2.1\Web2.RazorAssemblyInfo.cache
+G:\Aplikasi\Xamarin\Web2\Web2\obj\Debug\netcoreapp2.1\Web2.RazorAssemblyInfo.cs
+G:\Aplikasi\Xamarin\Web2\Web2\obj\Debug\netcoreapp2.1\Web2.AssemblyInfoInputs.cache
+G:\Aplikasi\Xamarin\Web2\Web2\obj\Debug\netcoreapp2.1\Web2.AssemblyInfo.cs
+G:\Aplikasi\Xamarin\Web2\Web2\obj\Debug\netcoreapp2.1\Web2.RazorTargetAssemblyInfo.cache
+G:\Aplikasi\Xamarin\Web2\Web2\obj\Debug\netcoreapp2.1\Web2.dll
+G:\Aplikasi\Xamarin\Web2\Web2\obj\Debug\netcoreapp2.1\Web2.pdb
